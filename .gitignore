@@ -1,0 +1,5 @@
+# do not push up github
+*.a
+!lib.a
+venv/
+*.txt
